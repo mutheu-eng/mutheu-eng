@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Naomi, a self-taught Data Analyst, and a SQL enthusiast from Kenya.
+I'm Naomi, a self-taught Data Analyst, and a SQL enthusiast.
 
 ✨ABOUT NAOMI✨
 
